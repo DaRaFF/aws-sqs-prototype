@@ -1,0 +1,22 @@
+{
+  "name": "aws-sqs-prototype",
+  "version": "1.0.0",
+  "description": "Simple Messaging Prototype with Amazon SQS",
+  "main": "writer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaRaFF/aws-sqs-prototype.git"
+  },
+  "author": "Ralph Meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaRaFF/aws-sqs-prototype/issues"
+  },
+  "homepage": "https://github.com/DaRaFF/aws-sqs-prototype#readme",
+  "dependencies": {
+    "easy-sqs": "^0.5.0"
+  }
+}
